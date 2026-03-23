@@ -22,6 +22,8 @@ Students often struggle to manage study tasks efficiently and track academic pro
 - Menu-driven interface
 
 ## Project Structure
+
+```
 Smart-Study-Planner
 │
 ├── src/
@@ -34,6 +36,7 @@ Smart-Study-Planner
 │
 ├── data/
 │   └── planner.txt
+```
 
 ## How to Run
 
